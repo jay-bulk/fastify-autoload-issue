@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@fastify/autoload": "^5.8.0",
+    "fastify": "^4.26.0",
+    "fastify-plugin": "^4.5.1"
+  },
+  "name": "fastify-autoload",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
